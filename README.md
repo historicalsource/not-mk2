@@ -1,1 +1,7 @@
 # not-mk2
+
+Shortly after the launch of Mortal Kombat 11, several independent declarations from former employees came through about the studio's alleged practices and general working conditions during the development of their last four games, in what they described as a toxic workplace with common instances of gender discrimination, as well as severe crunch time.[19][20][21] In May 2019, NetherRealm released a statement saying "At NetherRealm Studios, we greatly appreciate and respect all of our employees and prioritize creating a positive work experience. As an equal opportunity employer, we encourage diversity and constantly take steps to reduce crunch time for our employees. We are actively looking into all allegations, as we take these matters very seriously and are always working to improve our company environment. There are confidential ways for employees to raise any concerns or issues."[22] Following the statement, NetherRealm gave the studio the weekend off.[23]
+
+The same month, another article by Kotaku reported on the mental toll the developers were taking on by developing such excessively violent video games—one developer detailed stories about how the team would view pictures and videos of murders or animal slaughter as reference material, which would cause nightmares and eventual insomnia, with a diagnosis of post-traumatic stress disorder.[24]
+
+- https://en.wikipedia.org/wiki/NetherRealm_Studios
